@@ -1,2 +1,2 @@
 # ImplementationResearchPapers_scratch 
-Implement classical AI/ML Research papers in Pytorch
+Just sharing my understanding of Classical Research papers and implementation in PyTorch to get employed.

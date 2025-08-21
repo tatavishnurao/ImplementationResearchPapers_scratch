@@ -82,6 +82,8 @@ Dropout randomly deactivates neurons during training with 50% probability:
 
 Result: Roughly doubled training time but significantly improved generalization.
 
+<img width="890" height="603" alt="Screenshot from 2025-08-21 01-08-37" src="https://github.com/user-attachments/assets/e472e35f-2134-4612-9e62-32300cbe1823" />
+
 ## Historical Impact
 
 AlexNet's ILSVRC-2012 victory was decisive:

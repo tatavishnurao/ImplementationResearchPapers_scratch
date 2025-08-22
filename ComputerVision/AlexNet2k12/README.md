@@ -25,7 +25,7 @@ This computational leap enabled processing the 1.2 million ImageNet training sam
 ```
 f(x) = max(0, x)
 ```
-
+  
 Unlike saturating functions (tanh, sigmoid), ReLUs offered:
 - **Faster training**: Several times quicker convergence
 - **No saturation**: Consistent gradient flow

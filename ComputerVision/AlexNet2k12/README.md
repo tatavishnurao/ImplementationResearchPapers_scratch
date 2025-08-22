@@ -33,7 +33,7 @@ Unlike saturating functions (tanh, sigmoid), ReLUs offered:
 
 Result: A four-layer CNN with ReLUs reached 25% training error on CIFAR-10 six times faster than equivalent tanh networks.
 
-## Architecture: 8-Layer Deep Network
+## Architecture: 8-Layer Deep Network 
 
 The revolutionary architecture consisted of:
 

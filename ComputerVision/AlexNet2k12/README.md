@@ -4,7 +4,7 @@
 ## Understanding the Context
 
 In 2012, machine learning faced a critical bottleneck. While algorithms like MNIST digit recognition had achieved near-human performance (<0.3% error), real-world object recognition remained elusive. The challenge was clear: objects in realistic settings exhibit tremendous variability, demanding much larger training datasets and more powerful models.
-
+ 
 The breakthrough came with massive datasets:
 - **LabelMe**: ~100,000 fully-segmented images
 - **ImageNet**: 15+ million labeled images across 22,000+ categories

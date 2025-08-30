@@ -2,4 +2,4 @@ torch==2.7
 pandas
 numpy
 matplotlib 
-seaborn
+seaborn  
